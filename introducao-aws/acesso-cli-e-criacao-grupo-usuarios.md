@@ -40,12 +40,16 @@ Para manter o controle financeiro na AWS, é importante:
 Para este exemplo, utilizaremos o **Git Bash**.
 
 ### Passos:
-1. **Configurar AWS CLI**  
+1. **Configurar AWS CLI**
+
 ```bash
-aws configure (depois, inserir as keys solicitadas)
+aws configure 
+```
+(depois, inserir as keys solicitadas)
 
 2. **Baixar os arquivos necessário (.sh e o csv)**  
 entre na pasta que esses arquivos se encontram, e rode:
 
+```bash
 bash scriptIAM.sh usuarios.csv
-
+```
