@@ -51,3 +51,7 @@ Exemplo:
 Um arquivo pode permanecer no **S3 Standard** e, após **90 dias**, ser movido automaticamente para o **S3 Glacier**, reduzindo custos de dados raramente acessados.
 
 ---
+
+ 
+Categorias: https://aws.amazon.com/pt/s3/storage-classes/#topic-6
+
